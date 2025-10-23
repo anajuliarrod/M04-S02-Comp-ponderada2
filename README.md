@@ -40,7 +40,7 @@ Os dados coletados são processados utilizando Python (Jupyter Notebook) para ge
 
 ### Exemplo de Gráfico Gerado
 
-![Gráfico] (gráfico2.png)
+![Gráfico](gráfico2.png)
 
 ## Como Utilizar
 
